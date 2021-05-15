@@ -14,10 +14,6 @@ These implementations are for learning purposes only. Therefore they may be less
 
 Read our [Contribution Guidelines](CONTRIBUTING.md) before you contribute.
 
-## Community Channel
-
-We're on [Gitter](https://gitter.im/AlAbtAlgo)!  Please join us.
-
 ## List of Algorithms
 
 See our [directory](DIRECTORY.md).
